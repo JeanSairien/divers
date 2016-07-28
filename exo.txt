@@ -1,0 +1,49 @@
+Sur : http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+Réalisez les requêtes suivantes : 1) La liste des ContactName de la table Customer
+2) La liste des ProductName qui ont la CaterogyID 1 dans la table Product
+3)  Dans la table Product, au lieu d'avoir les ID  (pour categoryID et SupplierID), qu'on voie les noms des catégories et des fournisseurs , tout celà en une seule requête (edited)
+4) Créez une table utilisateur semblable à celle qu enous pouvons trouver au sein d'un réseau social. Réflechissez aux champs nécessaires et à la structure.
+5) Quels champs seront répetitifs? Est-il possible d'en générer des tables en 1,n . Et/Ou que suis-je en train de vous demander  de faire ? (edited)
+7:04
+Exercice PHP : Vous aurez accès à l'API de PHP sur PHP.net : http://php.net/manual/fr/
+Faites vos exercices sur : http://sandbox.onlinephpfunctions.com/
+0) Comprendre le code affiché par défaut sur cette page par le biais de la doc ci-dessus
+1) Afficher  tous les éléments d'un tableau
+2) Counter le nombre d'éléments dans un table. De deux façons.
+3) Chercher un élément dans un table.
+4) Ordonner un tableau en utilisant une methode existante
+5) Ordonner un table en utilisant un tri que vous aurez vous-même développé
+PHP Sandbox, test PHP online, PHP tester
+PHP Sandbox. Run, execute and test PHP code from your browser. Versions: 7.0.5, 7.0.4, 7.0.3, 7.0.2, 7.0.1, 5.6.20, 5.6.19, 5.6.18, 5.6.17, 5.6.2, 5.5.34, 5.5.33, 5.5.32, 5.5.31, 5.5.18, 5.5.5, 5.5.0.a6, 5.5.0.a.5, 5.5.0.a.2, 5.4.34, 5.4.21, 5.4.13, 5.4.12, 5.4.11, 5.4.10, 5.4.9, 5.4.8, 5.4.7, 5.4.6, 5.4.5, 5.4.4, 5.4.3, 5.4.2, 5.4.1, 5.4.0, 5.3.29, 5.3.27, 5.3.23, 5.3.22, 5.3.21, 5.3.20, 5.3.19, 5.3.18, 5.3.17, 5.3.16, 5.3.15, 5.3.14, 5.3.13, 5.3.12, 5.3.11, 5.3.10, 5.3.2, 5.3.1, 5.3.0, 5.2.17, Show more...
+(edited)
+7:06
+Exercice Ruby Pour décrire ruby en deux mots, il s'agit d'un langage semblable au PHP. Mais moins usité.
+Hélas, car ce langage est fun...Installer le package rubyUtilisez la commande irb ou ruby1) Calculer 23456³
+2) Créer une fonction entrant en paramètre une chaine de texte, et qui vous la retourne ainsi que le même texte inversé :
+  Ex : maFctQuiCloneEtInverse("Eh ca va la vache") doit me retourner => "Eh ca va la vache ehcav al av ac hE"
+3) Créer un tableau [0 => "Pomme", 1=>"Banane", 2=>"Poire", 3=>"Kiwi", 4=>"Wapiti", 5=>"Clémentine",6=>"Fraise", 7=>"Peche"]
+4) Trouver l'intrus :slightly_smiling_face:
+5) Afficher  tous les éléments d'un tableau
+6) Compter le nombre d'éléments dans un tableau. De deux façons.
+7) Chercher un élément dans un table.
+8) Ordonner un tableau en utilisant une methode existante
+9) Ordonner un table en utilisant un tri que vous aurez vous-même développé
+ronald 7:09 AM joined #exercices-rennes. Also, @foch01 joined, @youness_brg joined, @ghaffar joined, @patrice_rennes joined, @ju joined, @juliettesj joined, @floryan joined, @mopi joined, @ange joined, @carole35 joined, @yampolos joined, @annie-line joined, @lise joined, @redfish joined, @tyjow joined, @antoine joined, @jipee37 joined, @gael joined, @rasho22 joined, @becca joined, @valentin joined, @hassanrennes joined.
+erwann 1:24 PM Retour au code : Jouez avec les divs et les marges afin de réaliser un site semblable à ceci
+1:24
+http://simplonline.co/uploads/images/Front_End/zuliegarnier/exoDivs.jpg (147KB)
+ronald 9:18 AM
+images exodiv.tar.gz
+
+349KB GZip Click to download
+ange 1:10 PM Prochain Projet : https://github.com/ErwannFace/Challenge_2
+GitHub
+ErwannFace/Challenge_2
+Contribute to Challenge_2 development by creating an account on GitHub.
+1:10
+Même logiques, faites un fork par team et collaborez !
+aissatou 1:11 PM joined #exercices-rennes
+ange 1:11 PM Sinon, lisez la documentation https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3
+OpenClassrooms
+Découvrez le cours "Apprenez à créer votre site web avec HTML5 et CSS3" sur @OpenClassrooms
+Vous rêvez d'apprendre à créer des sites web ? Débutez avec ce cours qui vous enseignera tout ce qu'il faut savoir sur le développement de sites web en HTML5 et CSS3 !  

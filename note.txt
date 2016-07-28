@@ -1,0 +1,189 @@
+lore ipsum
+
+coffee script 
+
+go dart
+
+yamel et jason 
+
+
+
+123456789
+10.11.12.13.14.15.16.17.18.19.20
+21.22.23.24.25.26.27.28.29.30
+
+
+java 
+
+
+ fizzbuzz juliette
+
+var resultat = ""
+
+if (value %3 ==0) {
+resultat="fizz" ;
+}
+
+if (value %5 == 0);{
+resultat+="buzz";
+}
+
+if (resultat===""){
+resultat=value;
+
+}
+
+console.log (resultat)
+
+
+
+
+fizzbuzz antoine 
+
+
+
+var value=prompt ('valeur= ?');
+
+var resultat= ('');
+
+if (value %3 == 0);{
+	return=('fizz');
+}
+
+if (value %5 == 0);{
+	return+=('buzz');
+}
+
+if (resultat=''){
+	resultat=value;
+}
+console.log(value);
+
+
+
+
+
+fizzbuzz erwan
+
+var fizzbuzz= requiere("../lib/fizzbuzz);
+
+//console.log(fizzbuzz);
+	console.log(fizzbuzz.fizzbuzz(value));
+
+fizzbuzz erwan.js 
+
+var fizzbuzz={
+	fizzbuzz:fonction(value){
+	return value.toString()
+
+
+
+
+
+
+
+
+
+var value=prompt("value=?")
+
+
+
+if (%3 === 0)
+
+return "fizz";
+
+ }
+
+
+if (%5 === 0){
+
+return "buzz";
+
+ }
+
+
+
+if (%3===0 && %5===0){
+return "fizzbuzz";
+
+ }
+
+return (value);
+
+
+
+
+
+
+<h2>devine quel chiffre l'ordi a choisit </h2>
+
+<!-- fonction javascript!-->
+
+
+var ordi= rand (min:0 max:1000)
+
+var choix=prompt('ton chiffre=?');
+
+
+
+if (choix<ordi){
+	console.log ("+");
+}
+else if (choix>ordi){
+	console.log ("-");
+}
+
+else {return=(winner!)
+	console.log (winner!);
+}
+
+
+
+
+observatoir lopiec
+
+http://www.syntec.fr/1-federation-syntec/128-negociation-collective/197-l-observatoire-paritaire-de-l-informatique-de-l-ingenierie-des-etudes-et-du-conseil-opiiec.aspx
+
+
+
+french teck 
+
+
+
+
+vendeur martin 
+
+http://www.6tm.com/
+
+
+
+1) Calculer 23456³
+2) Créer une fonction entrant en paramètre une chaine de texte, et qui vous la retourne ainsi que le même texte inversé :
+   Ex : maFctQuiCloneEtInverse("Eh ca va la vache") doit me retourner => "Eh ca va la vache ehcav al av ac hE"
+3) Créer un tableau [0 => "Pomme", 1=>"Banane", 2=>"Poire", 3=>"Kiwi", 4=>"Wapiti", 5=>"Clémentine",6=>"Fraise", 7=>"Peche"]
+4) Trouver l'intrus :slightly_smiling_face:
+5) Refaire les exercices d'hier sur le PHP et les tableaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

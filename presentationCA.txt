@@ -1,0 +1,74 @@
+presentation Code academie 
+
+
+la Code Academie c'est quoi ? c'est une formation mise en place suite a un appel d'offre de l'etat ce dernier créa le la Grand Ecole du Numerqiue  et La fondation FACE rennes qui se basera sur le programmes de simplons 
+
+
+cette formation s'adresse au demandeur d'emplois et au personne souhaitant ce reconvertir les promo se compose de 24 a 26 personnes sans limites d'age ou dhorizon 
+
+la code academie est financer et soutenue par le pole emploie et la Grand ecole du numerique 
+
+
+la code academie est basé a rennes 
+
+
+Les promotion son accesible sur selection tout au long de l'année la formation se deroule sur une periode de 6  a 8 mois
+
+Pourquois j'ais choisit cette formation : Pour tout d'abord entendres mes connaissances dans le domaine qui me passione ainsi qu'en faire mon metier apres plusieur année de travail alimentaire en tant que cariste 
+
+Avoir des contact avec des personnes d'experience comme les formateurs , le fait de pratiquer avec des personnes interrésé et passionné par le domaine 
+
+
+j'ais egalement integré la formation pour l'absence de pré-requis en matiere de parcours et de diplome mais aussi car la formation a une pedagogie reconnue grace a simplon
+
+
+l'insertion pro et les activité pratique de mis en situation de projet pro mon bcp attiré ainsi que l'aide a determiner l'orientation dans le domaine du developpement : le front le back ou le full stack .
+
+grace a la formation j'ais pue aquerir des competences tel que la maitrise des languages suivant : javascript php ruby python sql et leur librairie et framework associer , Mais aussi les methodes de travail (scrum et agile ) Autonomie autodidacte grace a quoi nous avons pue crée pour plusieur client des sites vitrines ou des plateforme tel qu'un site de vente de vetement en ligne (ebulition) ou un panel de gestion de stock en php/sql pour l'entreprise S2I;
+
+
+
+PM: Présentation de la formation:
+
+Grande école du numérique  appel a projet ===> Face répond de l'appel a projet et est choisie comme structure.
+Face crée la Code Académie.
+Simplon    est le prestataire de Face (qui est un organisme de formation)  sur le projet Code Académie.
+
+Notre formation est Code Académie, formation proposée par FACE  dont  Simplon est le prestataire de la pédagogie pour répondre a la Grande école du numérique.
+
+http://www.fondationface.org/ <== site de FACE
+http://simplon.co/pour-un-numerique-inclusif/ <==== Simplon
+http://www.economie.gouv.fr/files/files/PDF/rapport_grande-ecole-du-numerique_2015.pdf <=== grande ecole du numerique
+https://www.facebook.com/profile.php?id=100011684343818 <==== le facebook de code académie (on a pas encore de site les gars)
+
+Les phrases clés de Sfia :
+
+    Qui?
+
+     - Tous les profils qui demontrent une forte motivation à apprendre la programmation
+
+
+    Pourquoi ?
+
+    - Repondre a la demande des entreprises qui peinent à recruter sur ces métiers méconnus ou  émergents
+
+    -proposer des formations innovantes et accessibles à TOUS.
+
+    --initier et favoriser le développement d'activité nouvelles ainsi que la création d'emploi.
+
+
+
+http://methodesagiles.info/methode_Agile.php <== petit rappel, ne pas confondre méthodes agiles et SCRUM.
+ ange a dit que c’était cool de parler de ça aux entreprise, je cite :
+
+
+      "ils aiment bien ça" 
+
+    Ange, 
+
+    formateur recruté pour son sens de la pédagogie mais aussi pour ses expériences professionnelles passées.
+
+
+    technique 840h -> 6 mois
+
+    insertion pro 280 -> 2 mois
