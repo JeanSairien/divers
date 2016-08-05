@@ -171,6 +171,20 @@ http://www.6tm.com/
 
 
 
+a faire pendant les vacances :
+ajax et jquery :
+
+choisir un theme et l'approffondir (php ou la securité ; voir kali backtrack)
+
+
+
+
+
+
+
+
+
+
 
 
 
