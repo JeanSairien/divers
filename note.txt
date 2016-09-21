@@ -1,3 +1,14 @@
+
+
+#UggyIsBack… c’est l’heure de la tournée de l’aubergiste….
+pour les ressources #front un lien github bien fourni : https://github.com/kevindeasis/awesome-fullstack#front-end-tier
+pour s’exercer sur du `SQL` : https://github.com/XD-DENG/SQL-exercise
+pour s’exercer aux « algos » aka algorithmes :https://www.coursera.org/learn/introduction-to-algorithms ( les cours de princeton university)
+pour être un bon crack en JS suivre le cursus sur :https://www.freecodecamp.com/challenges/say-hello-to-html-elements Show more...
+
+
+
+
 lore ipsum
 
 coffee script 
