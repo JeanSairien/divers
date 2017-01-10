@@ -1,6 +1,7 @@
 Divers
 
-
+----BASH----
+http://ineumann.developpez.com/tutoriels/linux/exercices-shell/
 
 framapad
 https://annuel.framapad.org/p/Formation_Rennes
@@ -13,7 +14,7 @@ la ferme du web
 Le site du zero
 
 
-HTML/CSS
+----HTML/CSS------
 http://www.cssdebutant.com/tutoriel-structure-une-page-css.html
 http://fr.learnlayout.com/
 http://www.w3schools.com/css/css3_animations.asp
@@ -24,7 +25,7 @@ css garden a aller voir
 
 CSS3Create
 
-GRAPHISME
+----GRAPHISME-----
 http://paletton.com/#uid=1590u0kllllaFw0g0qFqFg0w0aF
 http://thestocks.im/
 http://freestack.co.uk/
@@ -57,7 +58,7 @@ https://color.adobe.com/fr/
 
 http://stylescss.free.fr/couleurs.php
 
-SQL
+---------SQL-----------
 
 : http://sql.sh/cours/jointures
 http://sql.sh/cours/jointures/inner-join
@@ -66,7 +67,7 @@ http://cse.unl.edu/~sscott/ShowFiles/SQL/CheatSheet/SQLCheatSheet.html
 https://doc.ubuntu-fr.org/mysql
 
 
-RUBY
+--------RUBY-----------
 
 https://www.codecademy.com/articles/glossary-ruby
 http://veille.reputationsquad.com/#accueil
@@ -75,18 +76,19 @@ https://fr.wikiversity.org/wiki/Ruby/Boucles
 
 
 
-veille
+--------veille---------
+
 https://feedly.com/
 http://veille.reputationsquad.com/#accueil
 http://123itech.com
 
 
-Java Script
+--------Java Script--------
 https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript
 
 
 
-GIT
+-----------GIT-------------
 https://www.git-scm.com/docs/git-stash
 
 Cahier des charges:
@@ -100,7 +102,7 @@ http://www.mmcreation.com/_doc/mmcreation-cahier-des-charges.pdf
 
 
 
-DIVERS
+------------DIVERS-----------
 Developpez.com
 
 Mattrunks
